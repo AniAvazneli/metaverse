@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../project_metaverse-main/project_metaverse-main/app"
+		},
+		{
+			"path": "../project_metaverse-main/project_metaverse-main/components"
+		},
+		{
+			"path": "../project_metaverse-main/project_metaverse-main/constants"
+		},
+		{
+			"path": "../project_metaverse-main/project_metaverse-main/pages"
+		},
+		{
+			"path": "../project_metaverse-main/project_metaverse-main/public"
+		},
+		{
+			"path": "../project_metaverse-main/project_metaverse-main/sections"
+		},
+		{
+			"path": "../project_metaverse-main/project_metaverse-main/starter_repo"
+		},
+		{
+			"path": "../project_metaverse-main/project_metaverse-main/styles"
+		},
+		{
+			"path": "../project_metaverse-main/project_metaverse-main/utils"
+		}
+	],
+	"settings": {}
+}
