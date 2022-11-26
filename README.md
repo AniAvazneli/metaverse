@@ -1,4 +1,4 @@
-# Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS
+# Next 13 Website With Framer Motion & Tailwind CSS
 
 ### [Live Site](https://metaverse-beige.vercel.app/)
 
